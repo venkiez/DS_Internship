@@ -1,7 +1,6 @@
 import streamlit as st
 
-st.title('Hello! This is Venkatesh"')
-st.title('A title with _italics_ :blue[colors] and emojis :sunglasses:')
+st.title('Hello! This is Venkatesh' :blue[colors] and emojis :sunglasses:')
 
 
 btn_click = st.button("Click Me!")
